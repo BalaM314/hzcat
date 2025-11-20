@@ -2,6 +2,10 @@
 name = "hzcat"
 version = "0.1.0"
 edition = "2024"
+authors = ["BalaM314"]
+description = "CLI to decompress a headerless file compressed with the DEFLATE algorithm."
+license = "MIT"
+repository = "https://github.com/BalaM314/hzcat"
 
 [dependencies]
 anyhow = "1.0.100"
